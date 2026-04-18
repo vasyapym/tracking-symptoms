@@ -1,0 +1,19 @@
+{
+  "name": "obsidian-tracking-symptoms",
+  "version": "1.0.0",
+  "description": "Fast symptom logging for Obsidian.",
+  "main": "main.js",
+  "author": "vasyapym",
+  "license": "MIT",
+  "keywords": [
+    "obsidian",
+    "obsidian-plugin",
+    "symptoms",
+    "tracking",
+    "health",
+    "logging"
+  ],
+  "scripts": {
+    "check": "node --check main.js"
+  }
+}

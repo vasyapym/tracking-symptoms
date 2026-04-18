@@ -1,7 +1,7 @@
 {
   "name": "obsidian-tracking-symptoms",
   "version": "1.0.0",
-  "description": "Fast symptom logging for Obsidian.",
+  "description": "Fast symptom logging with quick actions, relief-event presets, history, review heatmaps, and JSON/CSV export.",
   "main": "main.js",
   "author": "vasyapym",
   "license": "MIT",

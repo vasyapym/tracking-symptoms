@@ -1,11 +1,5 @@
 # Tracking Symptoms
 
-just checking on this. i . me .
-branch try
-
-
-f
-f
 Tracking Symptoms is an Obsidian plugin for fast, mobile-friendly symptom logging.
 
 It is designed for quick daily capture with:
